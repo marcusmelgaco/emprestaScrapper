@@ -1,0 +1,19 @@
+{
+  "name": "EmprestaScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "pug": "^3.0.2",
+    "puppeteer": "^9.1.1"
+  }
+}

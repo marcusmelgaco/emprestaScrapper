@@ -1,0 +1,19 @@
+{
+    "ENV": "default",
+    "HOST": "localhost",
+    "SERVER": {
+        "PORT": 7000
+    },
+    "TEST": {
+        "HOST": "http://localhost",
+        "PORT": 7001
+    },
+    "CONNECTIONS": {
+        "MONGO": {
+            "HOST": "localhost",
+            "DATABASE": "emprestascraper",
+            "USER": null,
+            "PASSWORD": null
+        }
+    } 
+}
